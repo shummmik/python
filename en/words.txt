@@ -1,0 +1,4 @@
+word
+run
+open
+love
